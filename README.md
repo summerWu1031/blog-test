@@ -22,3 +22,15 @@
 
 
 [傅菁的百度简介](https：//https://baike.baidu.com/item/%E5%82%85%E8%8F%81/22570223)
+
+
+```javascript
+var a = 1;
+console log(a)
+```
+```css
+body{
+    font-size:16px;
+    background-color:#fff;
+}
+```
